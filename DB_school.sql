@@ -1,7 +1,6 @@
 Create database School;
 Use School;
 -- tables
-drop database school;
 -- teacher
 Create table if not exists teacher(
 ID int auto_increment primary key not null,
